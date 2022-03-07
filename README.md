@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasdallavalle.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning NextJs.
+- 📫 My mail is lucasdallavalle1@gmail.com
